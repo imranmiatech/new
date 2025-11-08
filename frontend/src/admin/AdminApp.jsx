@@ -5,7 +5,7 @@ import SideBar from './components/SideBar';
 
 import AddBlog from './pages/AddBlog';
 import BlogList from './pages/BlogList';
-import SubsCribe from './pages/subscribe';
+import SubsCribe from './pages/Subscribe';
 import UpdateBlog from './pages/UpdateBlog';
 import TotalBlog from './pages/TotalBlog';
 import Users from './pages/Users';
